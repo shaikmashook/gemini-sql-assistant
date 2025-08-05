@@ -15,7 +15,7 @@ A Streamlit-based application that uses **Google Gemini** (via `gemini-2.0-flash
 - 🤖 **AI-Powered SQL Generation**: Uses Gemini (`gemini-2.0-flash`) to generate accurate SQL queries.
 - 🧾 **Query Execution**: Executes SQL on a local SQLite database and displays results.
 - 📘 **SQL Explanation**: Provides an AI-generated explanation of each query.
-- 💡 **Few-Shot Prompting**: Includes context and examples to guide the LLM for accurate outputs.
+- 💡 **Few-Shot Prompting**: Includes context and examples to guide the LLM for accurate outputs..
 
 
 ---
